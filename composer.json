@@ -1,0 +1,24 @@
+{
+    "name": "xtlsoft/cloudsky",
+    "description": "CloudSky package manager.",
+    "type": "project",
+    "require": {
+        "php": ">=7.0",
+        "league/climate": "^3.2",
+        "league/event": "^2.1",
+        "league/container": "^2.4",
+        "league/pipeline": "^0.3.0",
+        "league/flysystem": "^1.0",
+        "workerman/workerman": "^3.5",
+        "j4mie/idiorm": "^1.5",
+        "webonyx/graphql-php": "^0.11.2",
+        "react/promise": "^2.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xtl",
+            "email": "xtl@xtlsoft.top"
+        }
+    ]
+}
